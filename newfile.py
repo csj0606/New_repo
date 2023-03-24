@@ -10,3 +10,7 @@ print("and I'm 21 years old too")
 for i in range(10):
   print("오늘점심에 뭘먹을지"+i+"번 셍긱증")
   
+lunch_lst = ["ramen", "ddukboki", "kimbab", "jaeyookdubbab", "donkas"]
+
+for menu in lunch_lst:
+  print(menu, "를 먹을까?")
