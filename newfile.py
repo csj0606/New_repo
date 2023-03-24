@@ -8,5 +8,5 @@ print("and I'm 21 years old too")
 
 #최성준 부계로 수정중입니다~
 for i in range(10):
-  print("오늘점심에 뭘먹을지"+i+"번 셍긱증")
+  print("오늘점심에 뭘먹을지"+i+"번 생각 중")
   
